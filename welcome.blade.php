@@ -16,6 +16,6 @@
         </style>
     </head>
     <body class="antialiased">
-   <h1>Welcome Page</h1>
+        <a href="/me">Welcome Page</a>
     </body>
 </html>
